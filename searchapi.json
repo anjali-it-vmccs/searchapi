@@ -1,173 +1,173 @@
 {
-    "searchResults": [
-      {
-        "name": "Coconut + Mango kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276211/mango_shake_copy_zprvta.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Butterscotch kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276204/butter_scotch_hd89j8.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Sapodilla kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276208/chiku_shake_copy_roam8a.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Pomegranate kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276215/pomegranate_shake_d9udf8.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Strawberry kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276217/strawberry_shake_jviohw.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276216/tender_coconut_png_pgrav4.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Jackfruit kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276211/jackfruit_shake_snrj63.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Dragon fruit kooler",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276206/dragon_fruit_shake_uwyekx.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Dates",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276205/dates_juce_utzbmt.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Avocado",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276219/avocado_shake_v0en4c.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Lychee",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276210/lychee_rzv3ry.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Jamun",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276208/jamun_d6mhjv.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Chocolate",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276204/choclate_jmhngn.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Sitafal",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276216/sitafaljuce_fujkqu.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Guava",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276207/guava_hwyxyy.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": "Coconut + Grapes",
-        "type": "juice",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276207/grapes_shake_vnebyy.png",
-        "link": "/coconutjuice"
-      },
-      {
-        "name": ["Liquid Detergent", "Coco श्री Wash" ],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/Free_Detergent_White_Bottle_PSD_Label_Mockup_copy-removebg-preview_cxzrq8.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Blooms", "Face Wash"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/face_wash_website_copy-removebg-preview_horctt.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco श्री Sentry", "Hand Sanitizer"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/sanitizer_mockup-removebg-preview_tf3pah.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco BBlossom", "Body Wash"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/bdy_wsh-removebg-preview_bx7xzj.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Bliiss", "Facial Serum"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007583/serum_mockup_psd-removebg-preview_xqahnk.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Sheens", "Shampoo"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/shampoo_web-removebg-preview_hy19r2.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Tranquil", "Roll On"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/roll_on_website_copy6-removebg-preview_edqgmv.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Vanquish", "Toilet Cleaner"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/tc_mockup-removebg-preview_dad6wb.png",
-        "link": "/products"
-      },
-      {
-        "name": ["TropiCoco", "Coco Soap"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco श्री श्री", "Coconut Oil"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739015264/coconut_oil_web-removebg-preview_qanxb8.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Bee", "Honey"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/honey-removebg-preview_pbkcyt.png",
-        "link": "/products"
-      },
-      {
-        "name": ["Coco Ayurdent", "Dant Manjan"],
-        "type": "product",
-        "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/Coco_Ayurdent-removebg-preview_ykvzii.png",
-        "link": "/products"
-      }
-    ]
-  }
-  
+  "success": true,
+  "searchResults": [
+    {
+      "name": "Coconut + Mango kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276211/mango_shake_copy_zprvta.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Butterscotch kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276204/butter_scotch_hd89j8.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Sapodilla kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276208/chiku_shake_copy_roam8a.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Pomegranate kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276215/pomegranate_shake_d9udf8.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Strawberry kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276217/strawberry_shake_jviohw.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276216/tender_coconut_png_pgrav4.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Jackfruit kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276211/jackfruit_shake_snrj63.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Dragon fruit kooler",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276206/dragon_fruit_shake_uwyekx.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Dates",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276205/dates_juce_utzbmt.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Avocado",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276219/avocado_shake_v0en4c.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Lychee",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276210/lychee_rzv3ry.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Jamun",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276208/jamun_d6mhjv.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Chocolate",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276204/choclate_jmhngn.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Sitafal",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276216/sitafaljuce_fujkqu.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Guava",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276207/guava_hwyxyy.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": "Coconut + Grapes",
+      "type": "juice - kooler",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739276207/grapes_shake_vnebyy.png",
+      "link": "/coconutjuice"
+    },
+    {
+      "name": ["Liquid Detergent", "Coco श्री Wash"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/Free_Detergent_White_Bottle_PSD_Label_Mockup_copy-removebg-preview_cxzrq8.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Blooms", "Face Wash"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/face_wash_website_copy-removebg-preview_horctt.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco श्री Sentry", "Hand Sanitizer"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/sanitizer_mockup-removebg-preview_tf3pah.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco BBlossom", "Body Wash"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/bdy_wsh-removebg-preview_bx7xzj.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Bliiss", "Facial Serum"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007583/serum_mockup_psd-removebg-preview_xqahnk.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Sheens", "Shampoo"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/shampoo_web-removebg-preview_hy19r2.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Tranquil", "Roll On"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/roll_on_website_copy6-removebg-preview_edqgmv.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Vanquish", "Toilet Cleaner"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/tc_mockup-removebg-preview_dad6wb.png",
+      "link": "/products"
+    },
+    {
+      "name": ["TropiCoco", "Coco Soap"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco श्री श्री", "Coconut Oil"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739015264/coconut_oil_web-removebg-preview_qanxb8.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Bee", "Honey"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/honey-removebg-preview_pbkcyt.png",
+      "link": "/products"
+    },
+    {
+      "name": ["Coco Ayurdent", "Dant Manjan"],
+      "type": "product",
+      "image": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/Coco_Ayurdent-removebg-preview_ykvzii.png",
+      "link": "/products"
+    }
+  ]
+}
